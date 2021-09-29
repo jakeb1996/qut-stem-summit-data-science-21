@@ -1,2 +1,6 @@
-# qut-stem-summit-data-science-21
-QUT STEM Summit, Data Science workshop 201
+## 👋 QUT Future You (STEM) Summit 2021
+
+## Data Science Workshop
+
+Authors: Jake Bradford, David Lovell
+
